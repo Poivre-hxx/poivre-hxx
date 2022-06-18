@@ -1,8 +1,8 @@
 <a href="https://github.com/Poivre-hxx?tab=repositories">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Poivre-hxx&count_private=true&show_icons=true" />
 </a>
-<a href="https://profile.codersrank.io/user/Poivre/">
-  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=syfxlin&skills=Java,CSS,JSON,HTML,JavaScript,Less,Python,SCSS,TypeScript,Vue,React" />
+<a href="https://profile.codersrank.io/user/Poivre-hxx/">
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Poivre-hxx&skills=CSS,JSON,HTML,JavaScript,Less,SCSS,TypeScript,Vue,React" />
 </a>
 
 ### Hi there 👋
