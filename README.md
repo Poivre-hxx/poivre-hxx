@@ -3,7 +3,7 @@
 </a>
 <br/>
 <a href="https://profile.codersrank.io/user/Poivre-hxx/">
-  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Poivre-hxx&skills=CSS,JSON,HTML,JavaScript,Less,SCSS,TypeScript,Vue,React,C#" />
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Poivre-hxx&skills=CSS,HTML,JavaScript,Less,SCSS,TypeScript,Vue,React,C#" />
 </a>
 
 
