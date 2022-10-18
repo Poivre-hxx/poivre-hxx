@@ -15,5 +15,8 @@ I'm Poivre. A student in HDU.
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Unity](https://img.shields.io/badge/-Unity-181717?style=flat-square&logo=Unity&logoColor=fff) ![Chrome](https://img.shields.io/badge/Google_chrome-ff822d?style=flat-square&logo=Google-chrome&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-181717?style=flat-square&logo=Expo&logoColor=fff") ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
 
 <a href="https://github.com/Poivre-hxx?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Poivre-hxx?tab=repositories">
+  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
