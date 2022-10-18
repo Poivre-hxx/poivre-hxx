@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Poivre-hxx?tab=repositories">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 ### Hi there 👋
