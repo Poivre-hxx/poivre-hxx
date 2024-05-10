@@ -100,4 +100,4 @@
 <br/>
 📫 email: poivre0101@gmail.com
 
- <img height="175px" src="https://github-readme-stats.vercel.app/api/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&role=OWNER,COLLABORATOR" alt="Top Langs" />
+ <img height="170px" src="https://github-readme-stats.vercel.app/api/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&role=OWNER,COLLABORATOR" alt="Top Langs" />
