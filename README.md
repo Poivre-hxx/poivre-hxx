@@ -98,6 +98,6 @@
             >黑道千金又han又sr</a
         >
 <br/>
-📫 邮箱: poivre0101@gmail.com
+📫 email: poivre0101@gmail.com
 
  <img height="175px" src="https://github-readme-stats.vercel.app/api/?username=Poivre-hxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&role=OWNER,COLLABORATOR" alt="Top Langs" />
