@@ -4,7 +4,7 @@
 <br/>
 📓 日常使用的编程语言:  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff) ![c++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff) ![GLSL](https://img.shields.io/badge/-GLSL-007ACC?style=flat-square&logo=GLSL&logoColor=fff)
 <br/>
-✨ 我推的vtuber:
+✨ 我推的vtb:
         <a
             target="_blank"
             rel="noopener"
@@ -75,20 +75,6 @@
             href="https://space.bilibili.com/8163245/?spm_id_from=333.999.0.0"
             >梭梭树</a
         >,
-<br/>
-😍 我推的老婆:
-        <a
-            target="_blank"
-            rel="noopener"
-            href="https://mzh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA"
-            >友利奈绪</a
-        >,
-        <a
-            target="_blank"
-            rel="noopener"
-            href="https://mzh.moegirl.org.cn/%E5%B0%8F%E9%87%8E%E5%AF%BA%E5%B0%8F%E5%92%B2"
-            >小野寺小咲</a
-        >
 <br/>
 🎮 Steam:
         <a
