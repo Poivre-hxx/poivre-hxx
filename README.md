@@ -48,7 +48,7 @@
             rel="noopener"
             href="https://music.163.com/#/artist?id=12140247"
             >小缘喵</a
-        >,
+        >
 <br/>
 🎨 我推的太太:
         <a
@@ -74,7 +74,21 @@
             rel="noopener"
             href="https://space.bilibili.com/8163245/?spm_id_from=333.999.0.0"
             >梭梭树</a
+        >
+<br/>
+🌱 单推的角色:
+        <a
+            target="_blank"
+            rel="noopener"
+            href="https://mzh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA"
+            >友利奈绪</a
         >,
+        <a
+            target="_blank"
+            rel="noopener"
+            href="https://mzh.moegirl.org.cn/%E5%B0%8F%E9%87%8E%E5%AF%BA%E5%B0%8F%E5%92%B2"
+            >小野寺小咲</a
+        >
 <br/>
 🎮 Steam:
         <a
