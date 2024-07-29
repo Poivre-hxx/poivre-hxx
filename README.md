@@ -14,8 +14,8 @@
         <a
             target="_blank"
             rel="noopener"
-            href="https://space.bilibili.com/8828904/?spm_id_from=333.999.0.0"
-            >不想加班的朋朋</a
+            href="https://music.163.com/#/artist?id=1047282"
+            >泠鸢yousa</a
         >,
         <a
             target="_blank"
@@ -46,8 +46,8 @@
         <a
             target="_blank"
             rel="noopener"
-            href="https://music.163.com/#/artist?id=1047282"
-            >泠鸢yousa</a
+            href="https://music.163.com/#/artist?id=12140247"
+            >小缘喵</a
         >,
 <br/>
 🎨 我推的太太:
