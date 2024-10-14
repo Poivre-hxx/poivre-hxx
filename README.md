@@ -10,24 +10,6 @@
             rel="noopener"
             href="https://space.bilibili.com/11073?spm_id_from=333.337.0.0"
             >hanser</a
-        >,
-        <a
-            target="_blank"
-            rel="noopener"
-            href="https://music.163.com/#/artist?id=1047282"
-            >泠鸢yousa</a
-        >,
-        <a
-            target="_blank"
-            rel="noopener"
-            href="https://space.bilibili.com/51030552/?spm_id_from=333.999.0.0"
-            >星汐Seki</a
-        >,
-        <a
-            target="_blank"
-            rel="noopener"
-            href="https://space.bilibili.com/121487111/?spm_id_from=333.999.0.0"
-            >东野凹</a
         >
 <br/>
 🎸 我推的音乐人:
@@ -42,12 +24,6 @@
             rel="noopener"
             href="https://music.163.com/#/artist?id=34477557"
             >chilichill</a
-        >,
-        <a
-            target="_blank"
-            rel="noopener"
-            href="https://music.163.com/#/artist?id=12140247"
-            >小缘喵</a
         >
 <br/>
 🎨 我推的太太:
@@ -80,15 +56,15 @@
         <a
             target="_blank"
             rel="noopener"
-            href="https://mzh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA"
-            >友利奈绪</a
+            href="https://mzh.moegirl.org.cn/%E5%B9%B3%E6%B3%BD%E5%94%AF"
+            >平泽唯</a
         >,
         <a
             target="_blank"
             rel="noopener"
-            href="https://mzh.moegirl.org.cn/%E5%B0%8F%E9%87%8E%E5%AF%BA%E5%B0%8F%E5%92%B2"
-            >小野寺小咲</a
-        >
+            href="https://mzh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA"
+            >友利奈绪</a
+        >,
 <br/>
 🎮 Steam:
         <a
