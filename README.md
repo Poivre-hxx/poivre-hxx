@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎉 关于我: 运气难得爆种的蒟蒻、游戏开发糕手、图形渲染练习生、抽象头像画师
+🎉 关于我: 运气难得爆种的蒟蒻、游戏开发糕手、图形渲染练习生、抽象头像画师、普普通通二次元
 <br/>
 📓 日常使用的编程语言:  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff) ![c++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff) ![GLSL](https://img.shields.io/badge/-GLSL-007ACC?style=flat-square&logo=GLSL&logoColor=fff)
 <br/>
