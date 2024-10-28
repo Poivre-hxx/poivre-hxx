@@ -2,7 +2,7 @@
 
 🎉 关于我: 游戏开发糕手、图形渲染练习生、抽象头像画师、普普通通2.5次元
 <br/>
-📓 日常使用的编程语言:  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff) ![c++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff) ![GLSL](https://img.shields.io/badge/-GLSL-007ACC?style=flat-square&logo=GLSL&logoColor=fff)
+📓 日常使用的编程语言:  ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white) ![c++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 <br/>
 ✨ 我推的vtb:
         <a
