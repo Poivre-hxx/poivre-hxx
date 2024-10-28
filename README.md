@@ -64,7 +64,7 @@
             rel="noopener"
             href="https://mzh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA"
             >友利奈绪</a
-        >,
+        >
 <br/>
 🎮 Steam:
         <a
